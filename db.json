@@ -7,7 +7,7 @@
       "password": "12345678",
       "phone": "0123456789",
       "role": "admin",
-      "hireRequests": 5,
+      "hireRequests": 4,
       "id": 1
     },
     {
@@ -17,7 +17,7 @@
       "password": "12345678",
       "phone": "0444444446",
       "role": "member",
-      "hireRequests": 5,
+      "hireRequests": 4,
       "id": 2
     },
     {
@@ -27,7 +27,7 @@
       "password": "12345678",
       "phone": "0348987192",
       "role": "member",
-      "hireRequests": 5,
+      "hireRequests": 4,
       "id": 5
     },
     {
@@ -57,7 +57,7 @@
       "author": "Jim Branch",
       "publish_date": "1998-01-01",
       "description": "A year-long devotional guide designed to offer space and structure, Scripture and prayers, as well as readings and reflections for your daily time with God. The hope is that through using this book you might discover the ancient rhythms that were whispered into you when God breathed you into being.",
-      "quantity": 10,
+      "quantity": 9,
       "cover": "https://bit.ly/dan-abramov",
       "id": 1
     },
@@ -66,7 +66,7 @@
       "author": "Marjorie Priceman",
       "publish_date": "1998-01-01",
       "description": "Illus. in full color. An apple pie is easy to make...if the market is open. But if the market is closed, the world becomes your grocery store. This deliciously silly recipe for apple pie takes readers around the globe to gather ingredients. First hop a steamboat to Italy for the finest semolina wheat. Then hitch a ride to England and hijack a cow for the freshest possible milk. And, oh yes! Don't forget to go apple picking in Vermont! A simple recipe for apple pie is included.",
-      "quantity": 10,
+      "quantity": 8,
       "cover": "https://bit.ly/dan-abramov",
       "id": 2
     },
@@ -80,5 +80,24 @@
       "id": 3
     }
   ],
-  "hire-requests": []
+  "hire-requests": [
+    {
+      "bookId": 2,
+      "userId": 1,
+      "borrow_date": "2023-07-02",
+      "id": 1
+    },
+    {
+      "bookId": 2,
+      "userId": 2,
+      "borrow_date": "2023-07-10",
+      "id": 1
+    },
+    {
+      "bookId": 1,
+      "userId": 3,
+      "borrow_date": "2023-07-24",
+      "id": 1
+    }
+  ]
 }
