@@ -164,33 +164,6 @@
       "quantity": 13,
       "cover": "https://m.media-amazon.com/images/I/91821HS5xRL._AC_UF1000,1000_QL80_FMwebp_.jpg",
       "id": 7
-    },
-    {
-      "name": "Fantastic Rubber Fish",
-      "author": "Eliseo40",
-      "description": "Nemo quia accusantium. Vel beatae ut eos nam dolorum mollitia eaque perspiciatis. Enim officia dignissimos. Doloremque nostrum quaerat repellendus quaerat.",
-      "publish_date": "1973-08-07",
-      "quantity": 34,
-      "cover": "https://m.media-amazon.com/images/I/91821HS5xRL._AC_UF1000,1000_QL80_FMwebp_.jpg",
-      "id": 8
-    },
-    {
-      "name": "Handmade Plastic Pizza",
-      "author": "Tavares_Mills38",
-      "description": "Aut assumenda deserunt qui inventore voluptates. Commodi quos assumenda atque explicabo. Corporis harum maxime.",
-      "publish_date": "1991-01-29",
-      "quantity": 24,
-      "cover": "https://m.media-amazon.com/images/I/91821HS5xRL._AC_UF1000,1000_QL80_FMwebp_.jpg",
-      "id": 9
-    },
-    {
-      "name": "Elegant Granite Chips",
-      "author": "Holden99",
-      "description": "Ipsum veritatis minus nulla architecto eos molestiae adipisci libero est.\nIpsum officiis dolorem deleniti sapiente voluptates.\nFacere rerum quas saepe sapiente reprehenderit ad assumenda incidunt delectus.",
-      "publish_date": "1994-10-05",
-      "quantity": 43,
-      "cover": "https://m.media-amazon.com/images/I/91821HS5xRL._AC_UF1000,1000_QL80_FMwebp_.jpg",
-      "id": 10
     }
   ],
   "hire-requests": [
