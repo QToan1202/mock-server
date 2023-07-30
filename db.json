@@ -99,51 +99,6 @@
       "role": "member",
       "hireRequests": 5,
       "id": 10
-    },
-    {
-      "firstName": "Elvera",
-      "lastName": "Sporer",
-      "email": "Noble.Berge@hotmail.com",
-      "password": "3585586932",
-      "role": "member",
-      "hireRequests": 5,
-      "id": 11
-    },
-    {
-      "firstName": "Darrion",
-      "lastName": "Hauck",
-      "email": "Carley21@hotmail.com",
-      "password": "4838200799",
-      "role": "member",
-      "hireRequests": 5,
-      "id": 12
-    },
-    {
-      "firstName": "Alek",
-      "lastName": "Daugherty",
-      "email": "Reynold16@yahoo.com",
-      "password": "2668545452",
-      "role": "admin",
-      "hireRequests": 5,
-      "id": 13
-    },
-    {
-      "firstName": "Katherine",
-      "lastName": "Schamberger",
-      "email": "Fredrick_Grady@hotmail.com",
-      "password": "1-599-416-6565",
-      "role": "member",
-      "hireRequests": 5,
-      "id": 14
-    },
-    {
-      "firstName": "Clifton",
-      "lastName": "Lemke",
-      "email": "Cora_Morar@yahoo.com",
-      "password": "5336312318",
-      "role": "admin",
-      "hireRequests": 5,
-      "id": 15
     }
   ],
   "books": [
