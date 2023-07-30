@@ -191,52 +191,26 @@
       "quantity": 43,
       "cover": "https://loremflickr.com/640/480/fashion",
       "id": 10
-    },
-    {
-      "name": "Refined Bronze Bike",
-      "author": "Wanda_Macejkovic95",
-      "description": "Distinctio maxime expedita molestiae aspernatur voluptatibus.",
-      "publish_date": "1948-04-08",
-      "quantity": 35,
-      "cover": "https://loremflickr.com/640/480/fashion",
-      "id": 11
-    },
-    {
-      "name": "Licensed Metal Hat",
-      "author": "Haley_Reynolds83",
-      "description": "Nisi harum nobis nulla praesentium quo.",
-      "publish_date": "1944-04-28",
-      "quantity": 24,
-      "cover": "https://loremflickr.com/640/480/animals",
-      "id": 12
-    },
-    {
-      "name": "Awesome Frozen Soap",
-      "author": "Devonte.Legros52",
-      "description": "rerum",
-      "publish_date": "1945-06-13",
-      "quantity": 77,
-      "cover": "https://loremflickr.com/640/480/cats",
-      "id": 13
-    },
-    {
-      "name": "Incredible Soft Bike",
-      "author": "Keven_Becker24",
-      "description": "Doloremque quisquam debitis reiciendis id. Nisi beatae assumenda ea sequi. Debitis itaque ad eius praesentium tenetur perferendis nostrum soluta odio. Hic aliquid laudantium placeat sapiente vero dignissimos eligendi.",
-      "publish_date": "1968-01-04",
-      "quantity": 64,
-      "cover": "https://loremflickr.com/640/480/city",
-      "id": 14
-    },
-    {
-      "name": "Fantastic Steel Mouse",
-      "author": "Athena.Veum22",
-      "description": "Modi excepturi earum beatae magni laborum.",
-      "publish_date": "1964-08-16",
-      "quantity": 88,
-      "cover": "https://loremflickr.com/640/480/city",
-      "id": 15
     }
   ],
-  "hire-requests": []
+  "hire-requests": [
+    {
+      "bookId": 4,
+      "userId": 1,
+      "borrow_date": "07-17-2023 15:09:14",
+      "id": 6
+    },
+    {
+      "bookId": 4,
+      "userId": 1,
+      "borrow_date": "07-27-2023 15:11:53",
+      "id": 7
+    },
+    {
+      "bookId": 1,
+      "userId": 1,
+      "borrow_date": "07-27-2023 15:22:52",
+      "id": 8
+    }
+  ]
 }
