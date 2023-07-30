@@ -21,14 +21,14 @@
       "id": 2
     },
     {
-      "firstName": "Toàn",
-      "lastName": "Nguyễn",
+      "firstName": "Toan",
+      "lastName": "Nguyen",
       "email": "toan1246778@gmail.com",
       "password": "12345678",
       "phone": "0348987192",
       "role": "member",
       "hireRequests": 4,
-      "id": 5
+      "id": 3
     },
     {
       "firstName": "Toan",
@@ -38,7 +38,7 @@
       "phone": "0348987192",
       "role": "member",
       "hireRequests": 5,
-      "id": 6
+      "id": 4
     },
     {
       "firstName": "Toàn",
@@ -48,56 +48,600 @@
       "phone": "0348987192",
       "role": "member",
       "hireRequests": 5,
+      "id": 5
+    },
+    {
+      "firstName": "Cathrine",
+      "lastName": "Ritchie",
+      "email": "Porter.Walsh39@yahoo.com",
+      "password": "HsPkdVIcobj9KgN",
+      "phone": "4929704034",
+      "role": "member",
+      "hireRequests": 5,
+      "id": 6
+    },
+    {
+      "firstName": "Aurore",
+      "lastName": "Rice",
+      "email": "Shany.Hirthe@hotmail.com",
+      "password": "j5jGl7RZx4t0UkD",
+      "phone": "2632535986",
+      "role": "member",
+      "hireRequests": 5,
       "id": 7
+    },
+    {
+      "firstName": "Earl",
+      "lastName": "Kutch",
+      "email": "Daphne.Stehr33@yahoo.com",
+      "password": "QFJdb5PCdOxFnvj",
+      "phone": "8158170590",
+      "role": "member",
+      "hireRequests": 5,
+      "id": 8
+    },
+    {
+      "firstName": "Meta",
+      "lastName": "Franecki",
+      "email": "Thomas_Bashirian38@hotmail.com",
+      "password": "_VFOcgA9UnJ24wO",
+      "phone": "8134693124",
+      "role": "member",
+      "hireRequests": 5,
+      "id": 9
+    },
+    {
+      "firstName": "Leonardo",
+      "lastName": "Pfeffer",
+      "email": "Patience_Corkery65@yahoo.com",
+      "password": "2vWCG4qkV2r30Ch",
+      "phone": "914-518-0616",
+      "role": "member",
+      "hireRequests": 5,
+      "id": 10
+    },
+    {
+      "firstName": "Elvera",
+      "lastName": "Sporer",
+      "email": "Noble.Berge@hotmail.com",
+      "password": "3585586932",
+      "role": "member",
+      "hireRequests": 5,
+      "id": 11
+    },
+    {
+      "firstName": "Darrion",
+      "lastName": "Hauck",
+      "email": "Carley21@hotmail.com",
+      "password": "4838200799",
+      "role": "member",
+      "hireRequests": 5,
+      "id": 12
+    },
+    {
+      "firstName": "Alek",
+      "lastName": "Daugherty",
+      "email": "Reynold16@yahoo.com",
+      "password": "2668545452",
+      "role": "admin",
+      "hireRequests": 5,
+      "id": 13
+    },
+    {
+      "firstName": "Katherine",
+      "lastName": "Schamberger",
+      "email": "Fredrick_Grady@hotmail.com",
+      "password": "1-599-416-6565",
+      "role": "member",
+      "hireRequests": 5,
+      "id": 14
+    },
+    {
+      "firstName": "Clifton",
+      "lastName": "Lemke",
+      "email": "Cora_Morar@yahoo.com",
+      "password": "5336312318",
+      "role": "admin",
+      "hireRequests": 5,
+      "id": 15
     }
   ],
   "books": [
     {
-      "name": "Blue Book: A Devotional Guide for Every Season of Your Life",
-      "author": "Jim Branch",
-      "publish_date": "1998-01-01",
-      "description": "A year-long devotional guide designed to offer space and structure, Scripture and prayers, as well as readings and reflections for your daily time with God. The hope is that through using this book you might discover the ancient rhythms that were whispered into you when God breathed you into being.",
-      "quantity": 9,
-      "cover": "https://bit.ly/dan-abramov",
+      "name": "Licensed Steel Chair",
+      "author": "Celia.Heaney36",
+      "description": "Odit id expedita officia ratione quaerat laborum iusto corporis pariatur. Quis blanditiis vero ullam commodi explicabo tempore ipsum in. Est alias laudantium voluptates quasi provident aliquid et similique. Rerum voluptatum libero praesentium vero placeat. Facilis maiores neque hic vero expedita odio voluptas deleniti repudiandae.",
+      "publish_date": "1976-03-31",
+      "quantity": 20,
+      "cover": "https://loremflickr.com/640/480/business",
       "id": 1
     },
     {
-      "name": "How to Make an Apple Pie and See the World (Dragonfly Books)",
-      "author": "Marjorie Priceman",
-      "publish_date": "1998-01-01",
-      "description": "Illus. in full color. An apple pie is easy to make...if the market is open. But if the market is closed, the world becomes your grocery store. This deliciously silly recipe for apple pie takes readers around the globe to gather ingredients. First hop a steamboat to Italy for the finest semolina wheat. Then hitch a ride to England and hijack a cow for the freshest possible milk. And, oh yes! Don't forget to go apple picking in Vermont! A simple recipe for apple pie is included.",
-      "quantity": 8,
-      "cover": "https://bit.ly/dan-abramov",
+      "name": "Oriental Fresh Chicken",
+      "author": "Anibal.Romaguera92",
+      "description": "Qui sed ratione perferendis dolores deleniti sapiente.\nNisi ullam in.\nDolorem odio aut quisquam aperiam debitis illum cum.",
+      "publish_date": "1969-11-16",
+      "quantity": 10,
+      "cover": "https://loremflickr.com/640/480/business",
       "id": 2
     },
     {
-      "name": "Baja Adventure Book",
-      "author": "Walt Peterson",
-      "publish_date": "1998-01-01",
-      "description": "A where-to, how-to guide to one of the most interesting places on earth, describing the full spectrum of adventure available in Baja California, Mexico. Scuba diving, hiking, backpacking, fishing, boating, bicycling, and windsurfing are just some of the exciting activities covered.",
+      "name": "Licensed Fresh Towels",
+      "author": "Amaya51",
+      "description": "Iste iste aperiam voluptas aliquam perferendis distinctio. Expedita facere ducimus magni nostrum alias neque voluptatem. Illo voluptate itaque. Quo officiis quia quod ratione impedit a vel maiores.",
+      "publish_date": "1976-10-29",
       "quantity": 10,
-      "cover": "https://bit.ly/dan-abramov",
+      "cover": "https://loremflickr.com/640/480/animals",
       "id": 3
+    },
+    {
+      "name": "Ergonomic Metal Shirt",
+      "author": "Carolyne_Cummings",
+      "description": "Provident amet animi debitis magni repellat fugit error eligendi. Quam voluptatem deserunt commodi. Eos ad explicabo voluptas eveniet placeat cum.\nAliquam sunt inventore id ut et veniam inventore facere. Accusamus facilis placeat cumque temporibus pariatur. Consequatur iste temporibus quos autem hic nobis error placeat. Ea explicabo molestias sed. Occaecati incidunt vero inventore explicabo dicta. Illo possimus molestiae cum veritatis suscipit officiis animi cupiditate tenetur.\nQuos sit quas nam quidem. Commodi soluta aspernatur. Doloribus repudiandae nobis minus tempore laudantium. Culpa veritatis unde.",
+      "publish_date": "2001-08-09",
+      "quantity": 50,
+      "cover": "https://loremflickr.com/640/480/food",
+      "id": 4
+    },
+    {
+      "name": "Luxurious Bronze Table",
+      "author": "Audreanne84",
+      "description": "Cum hic neque nobis. Nulla quam quidem velit culpa. Hic neque beatae doloribus. Animi et nemo saepe animi officiis exercitationem. Unde delectus corrupti veniam deserunt. Reiciendis ullam commodi hic.\nInventore cupiditate praesentium accusamus nulla asperiores. Debitis numquam optio ipsum repellendus aut aspernatur. Distinctio enim quaerat tempora fugit deserunt. Tempora unde quasi.\nDeserunt delectus reiciendis provident provident quaerat dolorem possimus consequuntur. Occaecati veniam ex quo non ipsam corrupti. Voluptates minus perferendis vero nisi commodi culpa. Consequatur vel ratione distinctio. Deserunt commodi voluptatum autem. Nisi doloribus ipsa quos accusantium nesciunt beatae.",
+      "publish_date": "1998-09-05",
+      "quantity": 23,
+      "cover": "https://loremflickr.com/640/480/fashion",
+      "id": 5
+    },
+    {
+      "name": "Sleek Concrete Tuna",
+      "author": "Jerry_Brown36",
+      "description": "Aliquam eligendi in consequuntur ea. Optio tempora quos atque numquam possimus praesentium. Excepturi illum cupiditate pariatur amet maxime voluptatum ad. Praesentium cumque officiis ab impedit labore facilis.",
+      "publish_date": "1974-09-17",
+      "quantity": 43,
+      "cover": "https://loremflickr.com/640/480/animals",
+      "id": 6
+    },
+    {
+      "name": "Small Metal Bike",
+      "author": "Gretchen.Kuhic",
+      "description": "Facere ex in commodi explicabo consectetur vero eum. Rerum pariatur corporis non. Maiores velit temporibus quidem ullam optio reprehenderit.\nPossimus dolor aliquam modi quod. Tempore accusamus dolor facere neque eaque neque reiciendis architecto. In aliquam nam voluptas in quod labore hic.\nVoluptatem dicta optio exercitationem corrupti placeat facere vitae atque. Odio a ad cum neque illum nemo consequatur beatae autem. Ratione aliquam neque eveniet at. Facilis corrupti fuga tempora in nam iure consequatur fugiat. Cupiditate assumenda molestiae ipsa dolores.",
+      "publish_date": "1991-06-11",
+      "quantity": 13,
+      "cover": "https://loremflickr.com/640/480/transport",
+      "id": 7
+    },
+    {
+      "name": "Fantastic Rubber Fish",
+      "author": "Eliseo40",
+      "description": "Nemo quia accusantium. Vel beatae ut eos nam dolorum mollitia eaque perspiciatis. Enim officia dignissimos. Doloremque nostrum quaerat repellendus quaerat.",
+      "publish_date": "1973-08-07",
+      "quantity": 34,
+      "cover": "https://loremflickr.com/640/480/cats",
+      "id": 8
+    },
+    {
+      "name": "Handmade Plastic Pizza",
+      "author": "Tavares_Mills38",
+      "description": "Aut assumenda deserunt qui inventore voluptates. Commodi quos assumenda atque explicabo. Corporis harum maxime.",
+      "publish_date": "1991-01-29",
+      "quantity": 24,
+      "cover": "https://loremflickr.com/640/480/city",
+      "id": 9
+    },
+    {
+      "name": "Elegant Granite Chips",
+      "author": "Holden99",
+      "description": "Ipsum veritatis minus nulla architecto eos molestiae adipisci libero est.\nIpsum officiis dolorem deleniti sapiente voluptates.\nFacere rerum quas saepe sapiente reprehenderit ad assumenda incidunt delectus.",
+      "publish_date": "1994-10-05",
+      "quantity": 43,
+      "cover": "https://loremflickr.com/640/480/fashion",
+      "id": 10
+    },
+    {
+      "name": "Refined Bronze Bike",
+      "author": "Wanda_Macejkovic95",
+      "description": "Distinctio maxime expedita molestiae aspernatur voluptatibus.",
+      "publish_date": "1948-04-08",
+      "quantity": 35,
+      "cover": "https://loremflickr.com/640/480/fashion",
+      "id": 11
+    },
+    {
+      "name": "Licensed Metal Hat",
+      "author": "Haley_Reynolds83",
+      "description": "Nisi harum nobis nulla praesentium quo.",
+      "publish_date": "1944-04-28",
+      "quantity": 24,
+      "cover": "https://loremflickr.com/640/480/animals",
+      "id": 12
+    },
+    {
+      "name": "Awesome Frozen Soap",
+      "author": "Devonte.Legros52",
+      "description": "rerum",
+      "publish_date": "1945-06-13",
+      "quantity": 77,
+      "cover": "https://loremflickr.com/640/480/cats",
+      "id": 13
+    },
+    {
+      "name": "Incredible Soft Bike",
+      "author": "Keven_Becker24",
+      "description": "Doloremque quisquam debitis reiciendis id. Nisi beatae assumenda ea sequi. Debitis itaque ad eius praesentium tenetur perferendis nostrum soluta odio. Hic aliquid laudantium placeat sapiente vero dignissimos eligendi. Totam quas magni expedita voluptate quod illo ipsam. Dolorem aperiam similique ipsam odit consequatur voluptatum alias doloremque.",
+      "publish_date": "1968-01-04",
+      "quantity": 64,
+      "cover": "https://loremflickr.com/640/480/city",
+      "id": 14
+    },
+    {
+      "name": "Fantastic Steel Mouse",
+      "author": "Athena.Veum22",
+      "description": "Modi excepturi earum beatae magni laborum.",
+      "publish_date": "1964-08-16",
+      "quantity": 88,
+      "cover": "https://loremflickr.com/640/480/city",
+      "id": 15
+    },
+    {
+      "name": "Intelligent Metal Bacon",
+      "author": "Elian_Emmerich",
+      "description": "facilis",
+      "publish_date": "2005-05-16",
+      "quantity": 56,
+      "cover": "https://loremflickr.com/640/480/nature",
+      "id": 16
+    },
+    {
+      "name": "Modern Plastic Table",
+      "author": "Chloe.Mueller",
+      "description": "Unde rem molestiae repellendus tempora nihil voluptate quo in.\nIpsam molestiae voluptate rerum odio repellat sit.\nIste distinctio doloremque occaecati ipsum voluptate nemo.\nAtque deserunt cumque doloribus unde facilis architecto facilis.",
+      "publish_date": "1952-03-18",
+      "quantity": 97,
+      "cover": "https://loremflickr.com/640/480/city",
+      "id": 17
+    },
+    {
+      "name": "Oriental Cotton Chair",
+      "author": "Arvilla60",
+      "description": "Illum unde rerum exercitationem. Saepe libero inventore. Ad quis quasi ullam esse. Eveniet iste quae tempore.",
+      "publish_date": "1986-01-27",
+      "quantity": 13,
+      "cover": "https://loremflickr.com/640/480/sports",
+      "id": 18
+    },
+    {
+      "name": "Oriental Bronze Chair",
+      "author": "Garth.Nicolas",
+      "description": "Adipisci officia at maxime eos iste explicabo praesentium iusto dolores.",
+      "publish_date": "1959-03-17",
+      "quantity": 69,
+      "cover": "https://loremflickr.com/640/480/sports",
+      "id": 19
+    },
+    {
+      "name": "Practical Concrete Chicken",
+      "author": "Brando.Legros",
+      "description": "Sit cumque beatae ratione unde voluptate asperiores debitis. Ut at odit velit corporis maxime. At pariatur ad consequatur dolorum quisquam numquam. Quasi repellendus nulla placeat dolore nulla quam dolor facilis ipsum. Quis excepturi amet velit cupiditate nesciunt iure sapiente nisi.",
+      "publish_date": "1968-02-06",
+      "quantity": 38,
+      "cover": "https://loremflickr.com/640/480/food",
+      "id": 20
+    },
+    {
+      "name": "Electronic Metal Keyboard",
+      "author": "Vida_Davis46",
+      "description": "Error veniam quaerat animi soluta. Nostrum fugiat commodi eveniet. Culpa labore harum fugit rem fugit reprehenderit delectus sint. Cum minima officiis. Praesentium dolores tempore.",
+      "publish_date": "1957-11-10",
+      "quantity": 45,
+      "cover": "https://loremflickr.com/640/480/business",
+      "id": 21
+    },
+    {
+      "name": "Generic Granite Bike",
+      "author": "Damon_Marquardt",
+      "description": "Soluta dolorum explicabo voluptatum. Similique eos harum laborum adipisci quaerat autem. Repellat temporibus nulla quae totam animi harum. Officiis ab dolorem dolorem molestiae exercitationem saepe voluptate est.",
+      "publish_date": "2001-12-26",
+      "quantity": 74,
+      "cover": "https://loremflickr.com/640/480/city",
+      "id": 22
+    },
+    {
+      "name": "Electronic Wooden Gloves",
+      "author": "Annette.Moore25",
+      "description": "Debitis tenetur rem velit a aperiam dolore repellendus sequi. Quis laborum architecto. Optio temporibus reiciendis inventore. Expedita architecto enim tempora.",
+      "publish_date": "2004-05-22",
+      "quantity": 27,
+      "cover": "https://loremflickr.com/640/480/animals",
+      "id": 23
+    },
+    {
+      "name": "Practical Bronze Pizza",
+      "author": "Lafayette_Donnelly58",
+      "description": "Pariatur culpa nemo laborum.",
+      "publish_date": "1991-04-19",
+      "quantity": 20,
+      "cover": "https://loremflickr.com/640/480/nightlife",
+      "id": 24
+    },
+    {
+      "name": "Oriental Wooden Cheese",
+      "author": "Elda69",
+      "description": "Dolores et voluptate veritatis vel saepe deleniti ipsam aliquam exercitationem. Animi dolores eveniet repellat aut animi. Reiciendis beatae consequuntur. Facilis nisi sapiente repellendus iure.",
+      "publish_date": "1996-02-20",
+      "quantity": 36,
+      "cover": "https://loremflickr.com/640/480/city",
+      "id": 25
+    },
+    {
+      "name": "Recycled Fresh Pizza",
+      "author": "Demond_Conroy5",
+      "description": "Provident suscipit fugit necessitatibus.",
+      "publish_date": "1961-12-01",
+      "quantity": 68,
+      "cover": "https://loremflickr.com/640/480/people",
+      "id": 26
+    },
+    {
+      "name": "Refined Fresh Shirt",
+      "author": "Autumn_Watsica",
+      "description": "Deleniti aliquid accusantium quisquam placeat. Iusto incidunt saepe quisquam ducimus nulla voluptatum nulla soluta fugit.",
+      "publish_date": "1997-08-10",
+      "quantity": 89,
+      "cover": "https://loremflickr.com/640/480/abstract",
+      "id": 27
+    },
+    {
+      "name": "Licensed Plastic Sausages",
+      "author": "Marcus_Blick",
+      "description": "Modi maiores dolore eum. Deleniti deleniti fugiat ullam iure veritatis ratione itaque corrupti harum. Nam fugit a quam veniam illum distinctio beatae vero. Non voluptatem laborum dolores numquam. Ut officiis laboriosam neque exercitationem eos facere voluptas molestias cumque.\nVel nesciunt officiis magnam id. Amet saepe soluta rem vel quam cupiditate soluta aliquam tenetur. Blanditiis dolore iusto iste amet praesentium est atque. Deserunt cumque nulla est. Pariatur sed soluta voluptas tenetur optio tempora illo dolores. Vel laudantium harum architecto.\nAdipisci delectus in hic voluptatum. Fugiat odit tenetur adipisci quia ducimus. Quibusdam alias excepturi deserunt voluptatum doloremque deserunt.",
+      "publish_date": "1994-06-30",
+      "quantity": 97,
+      "cover": "https://loremflickr.com/640/480/nature",
+      "id": 28
+    },
+    {
+      "name": "Oriental Steel Chicken",
+      "author": "Cayla_Miller92",
+      "description": "Velit reiciendis saepe velit eum natus tenetur vitae veniam. Inventore repudiandae laboriosam alias odio deserunt. Sint soluta facilis quo explicabo deleniti architecto.\nVoluptas quia quas veritatis. Velit quod pariatur. Unde iusto sed saepe assumenda. Magnam sit itaque sequi. Quasi animi ea quam dolore.\nSapiente qui excepturi a veniam voluptate beatae. Minus repellat voluptatibus omnis provident saepe fugit porro accusamus laudantium. Architecto delectus illum dolorum voluptas voluptatum. Deleniti perferendis nemo. Aut deserunt nostrum laborum mollitia repellendus quisquam eos.",
+      "publish_date": "1993-11-14",
+      "quantity": 87,
+      "cover": "https://loremflickr.com/640/480/business",
+      "id": 29
+    },
+    {
+      "name": "Gorgeous Wooden Mouse",
+      "author": "Demario_Schinner",
+      "description": "Itaque quibusdam inventore magnam fugiat corporis voluptatum quod porro dolor.",
+      "publish_date": "1985-10-03",
+      "quantity": 36,
+      "cover": "https://loremflickr.com/640/480/transport",
+      "id": 30
+    },
+    {
+      "name": "Modern Wooden Hat",
+      "author": "Kadin.Zemlak",
+      "description": "Quos voluptatem sint adipisci praesentium.\nDolores vitae aperiam qui totam corporis quod cupiditate.\nExpedita cum earum numquam soluta modi consequuntur maiores nulla praesentium.\nOfficia minus debitis veritatis possimus.",
+      "publish_date": "1947-01-09",
+      "quantity": 67,
+      "cover": "https://loremflickr.com/640/480/abstract",
+      "id": 31
+    },
+    {
+      "name": "Practical Soft Shoes",
+      "author": "Catharine.McDermott",
+      "description": "A repellendus culpa. Quisquam numquam maxime amet earum.",
+      "publish_date": "1954-07-11",
+      "quantity": 8,
+      "cover": "https://loremflickr.com/640/480/fashion",
+      "id": 32
+    },
+    {
+      "name": "Unbranded Rubber Cheese",
+      "author": "Favian_Rolfson70",
+      "description": "Tempora sequi saepe ab dolores dolores.",
+      "publish_date": "1967-03-02",
+      "quantity": 85,
+      "cover": "https://loremflickr.com/640/480/sports",
+      "id": 33
+    },
+    {
+      "name": "Small Cotton Chicken",
+      "author": "Jasper71",
+      "description": "Deserunt veritatis neque. Maxime doloribus vel reiciendis doloribus repellendus non suscipit. Nisi tempora laborum ab molestiae. Amet necessitatibus modi fugiat numquam soluta. Culpa modi reprehenderit officiis cumque cumque eum.",
+      "publish_date": "1987-08-11",
+      "quantity": 71,
+      "cover": "https://loremflickr.com/640/480/transport",
+      "id": 34
+    },
+    {
+      "name": "Luxurious Frozen Gloves",
+      "author": "Karianne_Grady4",
+      "description": "Saepe ex facilis autem.",
+      "publish_date": "1964-11-30",
+      "quantity": 24,
+      "cover": "https://loremflickr.com/640/480/business",
+      "id": 35
+    },
+    {
+      "name": "Licensed Frozen Fish",
+      "author": "Clarabelle_Will",
+      "description": "Impedit est ipsum quam accusamus ut natus distinctio.",
+      "publish_date": "1982-01-29",
+      "quantity": 10,
+      "cover": "https://loremflickr.com/640/480/fashion",
+      "id": 36
+    },
+    {
+      "name": "Unbranded Frozen Towels",
+      "author": "Hadley_Hahn83",
+      "description": "dolorum",
+      "publish_date": "1987-03-15",
+      "quantity": 71,
+      "cover": "https://loremflickr.com/640/480/city",
+      "id": 37
+    },
+    {
+      "name": "Refined Steel Shoes",
+      "author": "Doyle_Moen",
+      "description": "Placeat tempora illo accusamus eius facere. Vitae dolores deserunt porro vitae quisquam. Molestias inventore totam itaque. Dolores tempore laudantium laborum id ipsum voluptas.",
+      "publish_date": "1964-07-06",
+      "quantity": 88,
+      "cover": "https://loremflickr.com/640/480/technics",
+      "id": 38
+    },
+    {
+      "name": "Bespoke Cotton Fish",
+      "author": "Kathryn_Little17",
+      "description": "Repellat ut animi sint itaque accusamus explicabo. Deserunt perferendis earum vitae at debitis consequuntur dolorem. Nulla aut nam recusandae magni dolor iusto hic. Sed placeat nesciunt blanditiis laborum quidem dolor possimus saepe. Necessitatibus sint ut odit.",
+      "publish_date": "1947-11-29",
+      "quantity": 68,
+      "cover": "https://loremflickr.com/640/480/fashion",
+      "id": 39
+    },
+    {
+      "name": "Recycled Soft Car",
+      "author": "Dallin.Ruecker",
+      "description": "Id rem vitae. Magnam magnam modi praesentium quibusdam maiores accusantium veritatis quisquam facere. Sed unde suscipit officia quia adipisci nihil iste quisquam. Soluta dolorum laborum adipisci occaecati dolore. Debitis laudantium dolor distinctio. Illo tempore quia laudantium.\nEnim deleniti soluta voluptates dignissimos. Ad ullam quis accusantium delectus vitae quod non quaerat. Aspernatur odio nisi minima maiores nulla id omnis reiciendis impedit. Sunt fuga illo odio. Vitae voluptatem architecto a. Laudantium nihil doloribus quis.\nSaepe libero incidunt nobis. Natus incidunt quas. Tenetur sint consequatur error magni quidem repudiandae similique ipsum voluptates. Inventore quaerat atque at maiores.",
+      "publish_date": "1957-12-11",
+      "quantity": 76,
+      "cover": "https://loremflickr.com/640/480/food",
+      "id": 40
+    },
+    {
+      "name": "Handcrafted Metal Ball",
+      "author": "Estefania.Fisher",
+      "description": "In inventore alias quis repellat tenetur voluptatum. Vitae itaque molestiae tempore facere aspernatur. Optio cum dolores accusantium id et maxime modi repellat.\nFuga consequatur error voluptatem magnam earum magni nobis. Nisi itaque alias. Eius quibusdam eos cupiditate consectetur. Odit autem accusamus eligendi doloremque facere unde praesentium iure fuga. Delectus quis ipsam quae odio eveniet. Possimus corrupti corporis saepe quidem molestias ab atque tempore nulla.\nArchitecto excepturi corporis. Dolor unde officiis totam nulla ratione sit atque. Corrupti illo atque velit. Adipisci soluta repellat minima. Labore labore facilis est occaecati.",
+      "publish_date": "1955-06-24",
+      "quantity": 66,
+      "cover": "https://loremflickr.com/640/480/city",
+      "id": 41
+    },
+    {
+      "name": "Awesome Wooden Hat",
+      "author": "Lindsey58",
+      "description": "Sapiente porro ipsa et officiis eius.",
+      "publish_date": "1998-09-18",
+      "quantity": 5,
+      "cover": "https://loremflickr.com/640/480/city",
+      "id": 42
+    },
+    {
+      "name": "Tasty Fresh Soap",
+      "author": "Araceli_Durgan41",
+      "description": "Odio et illo.\nAtque a voluptatum optio cum distinctio atque.\nSunt minima beatae hic ut.\nVeniam molestias commodi totam perferendis quibusdam natus exercitationem.\nProvident enim laborum.",
+      "publish_date": "1973-03-09",
+      "quantity": 79,
+      "cover": "https://loremflickr.com/640/480/city",
+      "id": 43
+    },
+    {
+      "name": "Refined Plastic Salad",
+      "author": "Royce.Lind65",
+      "description": "aspernatur id vitae",
+      "publish_date": "1999-04-06",
+      "quantity": 70,
+      "cover": "https://loremflickr.com/640/480/abstract",
+      "id": "44"
+    },
+    {
+      "name": "Small Concrete Bike",
+      "author": "Ralph35",
+      "description": "Sed provident asperiores magni commodi magnam expedita. Sint deleniti dolor laborum culpa exercitationem aliquid repellendus placeat vero. Est neque hic nobis tenetur ullam laudantium. Rem et dolore.\nEligendi blanditiis praesentium magni pariatur. Ipsa debitis sed. Enim illo aut aperiam ipsum libero. Sint minima totam cum quos ullam accusantium consequatur aliquam. Minima accusantium veniam excepturi eligendi.\nNisi voluptatum quibusdam autem voluptatum alias cumque nemo. Reiciendis reprehenderit neque culpa pariatur delectus est. Pariatur mollitia nostrum reprehenderit accusamus culpa officiis. Rerum vitae alias. Dolorem corrupti adipisci.",
+      "publish_date": "1965-01-07",
+      "quantity": 31,
+      "cover": "https://loremflickr.com/640/480/cats",
+      "id": 45
+    },
+    {
+      "name": "Electronic Metal Towels",
+      "author": "Daphne.Hilpert",
+      "description": "facilis praesentium laboriosam",
+      "publish_date": "1983-10-04",
+      "quantity": 51,
+      "cover": "https://loremflickr.com/640/480/technics",
+      "id": 46
+    },
+    {
+      "name": "Handmade Cotton Towels",
+      "author": "Roslyn_Jacobi56",
+      "description": "Quae maiores aliquid maiores eaque. Reiciendis laudantium esse reiciendis.",
+      "publish_date": "1949-01-30",
+      "quantity": 15,
+      "cover": "https://loremflickr.com/640/480/food",
+      "id": 47
+    },
+    {
+      "name": "Modern Concrete Towels",
+      "author": "Margarette28",
+      "description": "Minus porro laudantium.",
+      "publish_date": "1956-06-14",
+      "quantity": 24,
+      "cover": "https://loremflickr.com/640/480/people",
+      "id": 48
+    },
+    {
+      "name": "Sleek Concrete Tuna",
+      "author": "Angelina.Cummings",
+      "description": "Ab dolorum optio dolor soluta. Eius officia eos quo sapiente facilis ratione alias. Ab sint itaque voluptatem quis.\nFuga nemo aliquid omnis cupiditate ipsa. Vel nulla tenetur quidem vero rem quae. Quidem culpa neque tempore quod rem modi adipisci. Veritatis recusandae inventore pariatur itaque incidunt suscipit iste minima labore.\nAccusamus tenetur tempore alias quasi ullam exercitationem. Pariatur suscipit delectus adipisci deserunt. Odio aperiam qui similique suscipit. Expedita assumenda voluptatibus tenetur magnam. Necessitatibus ducimus dolores totam minima quod. Rem odio quam.",
+      "publish_date": "1944-01-19",
+      "quantity": 75,
+      "cover": "https://loremflickr.com/640/480/cats",
+      "id": 49
+    },
+    {
+      "name": "Oriental Granite Ball",
+      "author": "Berneice33",
+      "description": "Repellendus non quidem totam animi. Maxime pariatur dolorum nemo sed alias repellat rem illo fugiat. Veniam aspernatur reiciendis nisi non at totam.\nNobis expedita rem. Occaecati fugit hic placeat veniam eius. Quidem quia dicta cumque saepe quos. Delectus nulla delectus sit culpa odio nemo. Placeat rem enim ullam. Necessitatibus quibusdam laborum earum enim sint quasi sunt recusandae reprehenderit.\nSoluta labore sint iure suscipit repellendus libero ipsum doloribus. Atque ratione unde alias. Recusandae dolor aperiam facilis in deleniti asperiores qui. Sit blanditiis pariatur molestiae nihil in repellendus natus nisi itaque. Suscipit doloremque quaerat molestias eius magnam. Voluptatem itaque repellat inventore incidunt ratione facere beatae.",
+      "publish_date": "1981-02-16",
+      "quantity": 60,
+      "cover": "https://loremflickr.com/640/480/city",
+      "id": 50
+    },
+    {
+      "name": "Handmade Plastic Soap",
+      "author": "Braxton_Thiel",
+      "description": "Maiores velit repellat maxime. Repudiandae voluptatum excepturi at vitae expedita consequatur. Ipsam tenetur ipsam nobis quos quisquam dicta consectetur perferendis. Veritatis error amet distinctio.",
+      "publish_date": "1949-09-10",
+      "quantity": 26,
+      "cover": "https://loremflickr.com/640/480/nature",
+      "id":51
+    },
+    {
+      "name": "Recycled Plastic Sausages",
+      "author": "Bridget24",
+      "description": "Culpa illum perspiciatis.",
+      "publish_date": "1984-08-13",
+      "quantity": 62,
+      "cover": "https://loremflickr.com/640/480/nightlife",
+      "id": 52
+    },
+    {
+      "name": "Ergonomic Plastic Keyboard",
+      "author": "Alexis47",
+      "description": "enim",
+      "publish_date": "1985-03-28",
+      "quantity": 42,
+      "cover": "https://loremflickr.com/640/480/city",
+      "id": 53
+    },
+    {
+      "name": "Fantastic Soft Ball",
+      "author": "Dalton.Kris",
+      "description": "Libero laborum aliquid quia aliquam eius corrupti delectus libero. Reprehenderit nisi officia sed dolore accusantium occaecati ab repellat. Totam consequuntur saepe architecto vitae eius nisi. Nihil nesciunt molestias qui accusantium officia inventore. Enim earum quo alias labore repudiandae.",
+      "publish_date": "1968-02-12",
+      "quantity": 48,
+      "cover": "https://loremflickr.com/640/480/people",
+      "id": 54
+    },
+    {
+      "name": "Sleek Fresh Fish",
+      "author": "Tillman67",
+      "description": "quia voluptate a",
+      "publish_date": "1997-06-30",
+      "quantity": 52,
+      "cover": "https://loremflickr.com/640/480/transport",
+      "id": 55
     }
   ],
-  "hire-requests": [
-    {
-      "bookId": 2,
-      "userId": 1,
-      "borrow_date": "2023-07-02",
-      "id": 1
-    },
-    {
-      "bookId": 2,
-      "userId": 2,
-      "borrow_date": "2023-07-10",
-      "id": 2
-    },
-    {
-      "bookId": 1,
-      "userId": 3,
-      "borrow_date": "2023-07-24",
-      "id": 3
-    }
-  ]
+  "hire-requests": []
 }
