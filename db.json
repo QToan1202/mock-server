@@ -236,42 +236,6 @@
       "quantity": 88,
       "cover": "https://loremflickr.com/640/480/city",
       "id": 15
-    },
-    {
-      "name": "Intelligent Metal Bacon",
-      "author": "Elian_Emmerich",
-      "description": "facilis",
-      "publish_date": "2005-05-16",
-      "quantity": 56,
-      "cover": "https://loremflickr.com/640/480/nature",
-      "id": 16
-    },
-    {
-      "name": "Modern Plastic Table",
-      "author": "Chloe.Mueller",
-      "description": "Unde rem molestiae repellendus tempora nihil voluptate quo in.\nIpsam molestiae voluptate rerum odio repellat sit.\nIste distinctio doloremque occaecati ipsum voluptate nemo.\nAtque deserunt cumque doloribus unde facilis architecto facilis.",
-      "publish_date": "1952-03-18",
-      "quantity": 97,
-      "cover": "https://loremflickr.com/640/480/city",
-      "id": 17
-    },
-    {
-      "name": "Oriental Cotton Chair",
-      "author": "Arvilla60",
-      "description": "Illum unde rerum exercitationem. Saepe libero inventore. Ad quis quasi ullam esse. Eveniet iste quae tempore.",
-      "publish_date": "1986-01-27",
-      "quantity": 13,
-      "cover": "https://loremflickr.com/640/480/sports",
-      "id": 18
-    },
-    {
-      "name": "Oriental Bronze Chair",
-      "author": "Garth.Nicolas",
-      "description": "Adipisci officia at maxime eos iste explicabo praesentium iusto dolores.",
-      "publish_date": "1959-03-17",
-      "quantity": 69,
-      "cover": "https://loremflickr.com/640/480/sports",
-      "id": 19
     }
   ],
   "hire-requests": []
