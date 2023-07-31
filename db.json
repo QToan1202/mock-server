@@ -13,7 +13,7 @@
     {
       "firstName": "User",
       "lastName": "Ken",
-      "email": "member1@gmail.com",
+      "email": "member@gmail.com",
       "password": "12345678",
       "phone": "0444444446",
       "role": "member",
@@ -95,7 +95,7 @@
       "lastName": "Pfeffer",
       "email": "Patience_Corkery65@yahoo.com",
       "password": "2vWCG4qkV2r30Ch",
-      "phone": "914-518-0616",
+      "phone": "9145180616",
       "role": "member",
       "hireRequests": 5,
       "id": 10
